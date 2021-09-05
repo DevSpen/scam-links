@@ -12,6 +12,7 @@ Collection of IP grabber, phishing, and otherwise "bad" links.
 <li>yip.su</li>
 <li>bmwforum.co</li>
 <li>bucks.as</li>
+<li>dlscordnitro.ru.com</li>
 <li>cyberh1.xyz</li>
 <li>discörd.com</li>
 <li>disçordapp.com</li>

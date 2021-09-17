@@ -11,6 +11,8 @@ Collection of IP grabber, phishing, and otherwise "bad" links.
 <li>ps3cfw.com</li>
 <li>yip.su</li>
 <li>bmwforum.co</li>
+<li>discordsteam.ru</li>
+<li>steamsourcetrade.xyz</li>
 <li>bucks.as</li>
 <li>dlscordnitro.ru.com</li>
 <li>cyberh1.xyz</li>

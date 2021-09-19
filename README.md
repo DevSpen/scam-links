@@ -3,4 +3,4 @@
 | Link | Description |
 | :---: | :---: |
 | [`links.txt`](./links.txt) | The orginal list of links. |
-| [`indelible-links.txt`](./indelible-links.txt) | The same list of links with `/` added to the end of the links. |
+| [`denouement-links.txt`](./denouement-links.txt) | The same list of links with `/` added to the end of the links. |

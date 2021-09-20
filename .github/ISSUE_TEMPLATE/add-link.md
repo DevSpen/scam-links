@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-### Links to Add
+### Links To Add
 ...
 
 ### Why Are These Links Bad?
-- [] Phishing
-- [] Malware
-- [] Scam
-- [] IP Grabber
-- [] Other:
+- [ ] Phishing
+- [ ] Malware
+- [ ] Scam
+- [ ] IP Grabber
+- [ ] Other:

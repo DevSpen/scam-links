@@ -175,6 +175,7 @@ disco3d.app
 discoard.com
 discocl.xyz
 discocord.com
+discocrdapp.com
 discod.art
 discod.fun
 discod.gift
@@ -274,6 +275,7 @@ discord-hypesquad.com
 discord-hypesquads.com
 discord-info.com
 discord-information.com
+discord-information.ru
 discord-informations.com
 discord-install.com
 discord-invite-link.com
@@ -560,6 +562,7 @@ dlscord.blog
 dlscord.cc
 dlscord.click
 dlscord.cloud
+dlscord.help
 dlscord.in
 dlscord.info
 dlscord.live
@@ -702,9 +705,12 @@ ggdrop1.net.ru
 ggdrops.ru.com
 gift-discord.online
 gift-discord.ru
+gift-discord.xyz
+gift-nitro.com
 gift-nitro.store
 giftdiscord.info
 giftdiscord.online
+giftdiscord.xyz
 giftsdiscord.com
 giftsdiscord.fun
 giftsdiscord.online
@@ -814,6 +820,7 @@ newdiscord.online
 nise-win.xyz
 nitrlooss-free.ru
 nitro-airdrop.org
+nitro-discord.com
 nitro-discord.org
 nitro-discord.ru.com
 nitro-drop.com

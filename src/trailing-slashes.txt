@@ -1,0 +1,12 @@
+/tradeoffer
+/trade
+/steam
+/nitrogift
+/nitro
+/nitro-gift
+/airdrop
+/discordnitro
+/nitrodiscord
+/gift-nitro
+/info/nitro
+/joinchat

@@ -10,3 +10,5 @@
 /gift-nitro
 /info/nitro
 /joinchat
+/free-nitro
+/gift_nitro

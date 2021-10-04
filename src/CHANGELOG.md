@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 3
+- Added 9 new malicious terms: `free discord nitro for`,` distribution of nitro`,` dlscord`, `discorcl`,` dicsord`,` discorid`,` dicocrd`,` dlcord`,` dsicord`,` free from steam`
+- Added 11 new links: `dsicord.gift`,` dlscord.app`,` steam-sourcegame.xyz`,`stemcommunitytraade.xyz`,` aucryptohubs.com`,` hallowen-nitro.com`,` discorid.gift`,` discordgift.app`,` discord.moscow`,` discorcl-app.com`,` cpp-discord.com`,` discorclapp.xyz`
+- Added 4 new trailing slashes:  `/promo`, `/redeem`, `/nitrogive`, `/steam-gift`
+- Alphabetized [malicious-terms.txt](./malicious-terms.txt) and [trailing-slashes.txt](trailing-slashes.txt)
+- Added "Stale" integration for the GitHub repository.
+
 ## Version 2
 - Added [malicious-terms.txt](./malicious-terms.txt) and [trailing-slashes.txt](./trailing-slashes)
 - Added new links

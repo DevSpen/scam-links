@@ -468,6 +468,7 @@ discords-hypesquads.com
 discords-moderation.com
 discords-moderator.com
 discords-nitro.site
+discords-nitroapp.xyz
 discords-nitros.shop
 discords-support.com
 discords.gifts
@@ -2156,6 +2157,7 @@ twitch-starter.com
 twitch.rust-ltd.com
 udmoney.club
 uii.io
+up-discord.ru
 ur-l.me
 vbucksminer.ru
 viewc.site

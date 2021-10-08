@@ -1,8 +1,10 @@
 /airdrop
 /discordnitro
 /free-nitro
+/get
 /gift-nitro
 /gift_nitro
+/glft
 /info/nitro
 /joinchat
 /nitro
@@ -14,5 +16,6 @@
 /redeem
 /steam
 /steam-gift
+/steamnitro
 /trade
 /tradeoffer

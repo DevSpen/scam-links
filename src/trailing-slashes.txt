@@ -10,6 +10,7 @@
 /nitro
 /nitro-gift
 /nitrodiscord
+/nitrodrop
 /nitrogift
 /nitrogive
 /promo

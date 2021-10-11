@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 3.3.3
+- Added new trailing slash: `/nitrodrop`
+- Added new malicious term: `free nitro for`
+
 ## Version 3.2.5
 - Added 3 new trailing slashes: `/get`, `/glft`, `/steamnitro`
 - Added 2 new links:  `up-discord.ru`, `discords-nitroapp.xyz`

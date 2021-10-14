@@ -48,6 +48,7 @@ blasze.tk
 bmwforum.co
 board-nitro.com
 bondikflas.xyz
+boost-nitro.com
 boost.ink
 btcclicks.com
 btconline.io
@@ -254,6 +255,7 @@ discord-claim.com
 discord-claim.ru.com
 discord-control.com
 discord-controls.com
+discord-cpp.com
 discord-develop.com
 discord-developer.com
 discord-devs.com
@@ -461,6 +463,7 @@ discordp.ml
 discordpp.com
 discordpromo.site
 discordqpp.com
+discordrgift.com
 discords-developers.com
 discords-gift.ru
 discords-gifts.ru
@@ -487,6 +490,7 @@ discordss.ru
 discordstaff.xyz
 discordsteam.com
 discordsteam.ru
+discordsteams.com
 discordtest.xyz
 discordtesters.com
 discordtext.com
@@ -571,6 +575,7 @@ dliscord.us
 dliscrd.one
 dlscard.ru
 dlsccrd.com
+dlscocrdapp.com
 dlscorcl.info
 dlscord-app.com
 dlscord-claim.com
@@ -749,6 +754,7 @@ giftsdiscord.site
 giiveaway-discord.com
 giveawaybot.pw
 giveawaynitro.com
+giveaweys.com
 givenatus.site
 gleam.su
 glft-discord.com

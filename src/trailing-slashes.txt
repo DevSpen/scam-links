@@ -1,11 +1,11 @@
 /airdrop
 /discordnitro
+/drop
 /free-nitro
 /get
 /gift-nitro
 /gift_nitro
 /glft
-/info/nitro
 /joinchat
 /nitro
 /nitro-gift

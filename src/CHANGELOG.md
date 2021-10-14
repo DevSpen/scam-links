@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 3.5.0
+- Added 6 new links: `discordrgift.com`, `dlscocrdapp.com`, `boost-nitro.com`, `discord-cpp.com`, `discordsteams.com`, `giveaweys.com`
+- Added new malicious terms: `airdrop discord nitro`, `nitro for free from`, `nitro with steam`, `nitro free from`
+- Updated trailing slashes
+
 ## Version 3.3.3
 - Added new trailing slash: `/nitrodrop`
 - Added new malicious term: `free nitro for`

@@ -1,3 +1,4 @@
+/airdorp 
 /airdrop
 /discordnitro
 /drop
@@ -8,6 +9,7 @@
 /glft
 /joinchat
 /nitro
+/nitro-accept
 /nitro-gift
 /nitrodiscord
 /nitrodrop

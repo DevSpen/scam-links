@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 3.6.0
+- Added new link: `discord-gifte.com`
+- Added 2 new trailing slashes: `/nitro-accept`, `/airdorp`
+- Added new malicious term: `bro is my gift for`
+
 ## Version 3.5.0
 - Added 6 new links: `discordrgift.com`, `dlscocrdapp.com`, `boost-nitro.com`, `discord-cpp.com`, `discordsteams.com`, `giveaweys.com`
 - Added 4 new malicious terms: `airdrop discord nitro`, `nitro for free from`, `nitro with steam`, `nitro free from`

@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 3.7.0
+- Added 3 new links: `dlscorcl.gift`, `discordc.gift`, `discordsgift.com`
+- Added 2 new malicious terms: `free gift discord`, `free gift nitro`
+
 ## Version 3.6.0
 - Added new link: `discord-gifte.com`
 - Added 2 new trailing slashes: `/nitro-accept`, `/airdorp`

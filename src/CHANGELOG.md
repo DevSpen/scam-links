@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 3.8.0
+- Added new link: `diiscord.gift`
+- Added 2 new malicious terms: `take nitro fast`, `take nitro faster`
+
 ## Version 3.7.0
 - Added 3 new links: `dlscorcl.gift`, `discordc.gift`, `discordsgift.com`
 - Added 2 new malicious terms: `free gift discord`, `free gift nitro`

@@ -1,4 +1,6 @@
 # Changelog
+## Version 3.8.5
+- Added new link: `discordi.gift`
 
 ## Version 3.8.0
 - Added new link: `diiscord.gift`

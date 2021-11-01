@@ -1,4 +1,12 @@
 # Changelog
+
+## Version 4.5.0
+- Added a bunch of new links.
+- Added new malicious term: `hurry up and get`
+- Added new trailing slash: `/steam-accept`
+- Removed `trailing-links.txt` file.
+- Made preparations for API.
+
 ## Version 4.0.0
 - Added 7 new links: `dliscord.com`, `discocrd.gifts`, `dizcord.gift`, `discordn.gift`, `discordhalloween.com`, `dissord.gift`, `discond.gift`
 - Added 2 new malicious terms: `halloween promotion`, `discord is giving`

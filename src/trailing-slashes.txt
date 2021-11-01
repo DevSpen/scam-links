@@ -18,6 +18,7 @@
 /promo
 /redeem
 /steam
+/steam-accept
 /steam-gift
 /steamnitro
 /trade

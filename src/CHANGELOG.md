@@ -1,5 +1,4 @@
 # Changelog
-
 ## Version 4.0.0
 - Added 7 new links: `dliscord.com`, `discocrd.gifts`, `dizcord.gift`, `discordn.gift`, `discordhalloween.com`, `dissord.gift`, `discond.gift`
 - Added 2 new malicious terms: `halloween promotion`, `discord is giving`

@@ -1,4 +1,9 @@
 # Changelog
+
+## Version 4.1.0
+- Added 5 new malicious terms: `before the promotion end`, `before the promotion ends`, `your free discord`, `discord nitro by steam`, `airdrop nitro`
+- Added 3 new links: `dlsccord-apps.club`, `disccord.ru`, `discrod-gifte.com`
+
 ## Version 4.0.0
 - Added 7 new links: `dliscord.com`, `discocrd.gifts`, `dizcord.gift`, `discordn.gift`, `discordhalloween.com`, `dissord.gift`, `discond.gift`
 - Added 2 new malicious terms: `halloween promotion`, `discord is giving`

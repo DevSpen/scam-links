@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 4.7.0
+- Added new trailing slash: `/welcome`
+- Added 3 new links: `dicsord.gifts.ru`, `disccord.shop`, `discord-nitrogift.com`, `dlscord-store.club`
+
 ## Version 4.6.0
 - Added 5 new malicious terms: `before the promotion end`, `before the promotion ends`, `your free discord`, `discord nitro by steam`, `airdrop nitro`
 - Added 3 new links: `dlsccord-apps.club`, `disccord.ru`, `discrod-gifte.com`

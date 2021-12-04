@@ -1,9 +1,11 @@
 /airdorp 
 /airdrop
+/billing
 /discordnitro
 /drop
 /free-nitro
 /get
+/gift
 /gift-nitro
 /gift_nitro
 /glft
@@ -21,6 +23,7 @@
 /steam-accept
 /steam-gift
 /steamnitro
+/steams
 /trade
 /tradeoffer
 /welcome

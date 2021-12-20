@@ -17,6 +17,7 @@
 /nitrodrop
 /nitrogift
 /nitrogive
+/newyear/freenitro
 /promo
 /redeem
 /steam

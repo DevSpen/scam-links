@@ -19,11 +19,14 @@
 /nitro
 /nitro-accept
 /nitro-gift
+/nitro-promo
 /nitrodiscord
 /nitrodrop
 /nitrogift
 /nitrogive
 /promo
+/promo
+/promotion
 /redeem
 /steam
 /steam-accept

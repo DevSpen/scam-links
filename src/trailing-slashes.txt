@@ -3,6 +3,7 @@
 /billing
 /discordnitro
 /drop
+/flage
 /free-nitro
 /get
 /gift

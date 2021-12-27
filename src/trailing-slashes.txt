@@ -5,7 +5,6 @@
 /drop
 /flage
 /free-nitro
-/get
 /gift
 /gift-nitro
 /gift_nitro

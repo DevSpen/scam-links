@@ -10,6 +10,7 @@
 /gift-nitro
 /gift_nitro
 /glft
+/heloyf
 /joinchat
 /nitro
 /nitro-accept

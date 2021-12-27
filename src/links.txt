@@ -796,7 +796,6 @@ discord.fit
 discord.foundation
 discord.fun
 discord.fyi
-discord.gift
 discord.givaeway.com
 discord.givaewey.com
 discord.givaeweys.com
@@ -1218,6 +1217,7 @@ discrodapp.com
 discrodapp.ru
 discrodapp.site
 discrodapp.xyz
+discrode-app.com
 discrode-gift.club
 discrode-gift.com
 discrode-gifte.club

@@ -1,5 +1,5 @@
 # 🔗 Scam Links
-**Collection of phishing and malicious links that focuses on Steam and Discord scams.**
+**A collection of phishing and malicious links that focuses on Steam and Discord scams.**
 
 | File | Description |
 | :--- | :--- |

@@ -9,7 +9,6 @@
 /free-gift
 /free-nitro
 /freenitro
-/get
 /gift
 /gift-nitro
 /gift_nitro

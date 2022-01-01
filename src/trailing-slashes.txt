@@ -11,8 +11,8 @@
 /freenitro
 /get
 /gift
-/gift_nitro
 /gift-nitro
+/gift_nitro
 /glft
 /joinchat
 /newyear/freenitro
@@ -24,9 +24,6 @@
 /nitrodrop
 /nitrogift
 /nitrogive
-/promo
-/promo
-/promotion
 /redeem
 /steam
 /steam-accept

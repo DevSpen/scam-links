@@ -6,13 +6,16 @@
 /claim-nitro
 /discordnitro
 /drop
+/flage
 /free-gift
 /free-nitro
 /freenitro
+/get
 /gift
 /gift-nitro
 /gift_nitro
 /glft
+/heloyf
 /joinchat
 /newyear/freenitro
 /nitro
@@ -23,6 +26,7 @@
 /nitrodrop
 /nitrogift
 /nitrogive
+/promo
 /redeem
 /steam
 /steam-accept

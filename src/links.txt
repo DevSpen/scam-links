@@ -327,6 +327,7 @@ discard.gg
 discard.gift
 discard.xyz
 discardapp.fun
+discbrd.com
 disccor.com
 disccorcl-gift.ru
 disccord-app.club
@@ -487,6 +488,7 @@ discord-a.com
 discord-accept.com
 discord-accounts.com
 discord-accounts.ru
+discord-action.com
 discord-air.fun
 discord-air.pw
 discord-air.site
@@ -660,6 +662,7 @@ discord-informations.ru
 discord-install.com
 discord-invite-link.com
 discord-jobs.com
+discord-join.com
 discord-list.cf
 discord-load.ru
 discord-login.cf
@@ -996,6 +999,7 @@ discordinfo.com
 discordinfo.ru
 discordist.com
 discordisteam.com
+discordj.com
 discordj.gift
 discordjob.com
 discordjs.tech
@@ -1381,6 +1385,7 @@ dlscord-app.ru.com
 dlscord-app.site
 dlscord-app.su
 dlscord-app.su
+dlscord-app.su
 dlscord-app.xyz
 dlscord-apps.com
 dlscord-apps.me
@@ -1433,6 +1438,7 @@ dlscord-promo.xyz
 dlscord-steam.com
 dlscord-store.club
 dlscord-support.com
+dlscord-verification.com
 dlscord.app
 dlscord.art
 dlscord.biz
@@ -1742,6 +1748,7 @@ gennirto.org
 get-discord.fun
 get-gamesroll.xyz
 get-my-nitro.com
+get-nitro.com
 get-nitro.fun
 get-nitro.net
 getcach.monster
@@ -1771,6 +1778,7 @@ giftdiscord.info
 giftdiscord.online
 giftdiscord.site
 giftdiscord.xyz
+gifte-discorde.com
 giftsdiscord.com
 giftsdiscord.fun
 giftsdiscord.online
@@ -1984,6 +1992,7 @@ nitro-discord.ru.com
 nitro-discordapp.com
 nitro-discorde.com
 nitro-discords.com
+nitro-discords.org
 nitro-discorld.xyz
 nitro-drop.com
 nitro-ds.com
@@ -2970,6 +2979,8 @@ steamcommunity.trade
 steamcommunity.us
 steamcommunity1.com
 steamcommunitya.com
+steamcommunitya.com
+steamcommunityc.com
 steamcommunityc.com
 steamcommunityc.ru
 steamcommunitycomoffernewpartner989791155tokenjbhldtj6.trade
@@ -4166,6 +4177,7 @@ stemcomminuty.ru
 stemcommlunity.com
 stemcommnunity.com
 stemcommnunlty.ru
+stemcommnunulty.com
 stemcommnuunity.com
 stemcommouniity.com
 stemcommounilty.com

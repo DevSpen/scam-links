@@ -1192,6 +1192,7 @@ discourd.info
 discourd.site
 discourdapp.com
 discovd.com
+discozd.ru
 discpordapp.com
 discprd.com
 discqorcl.com
@@ -1335,6 +1336,7 @@ dlcsord-gifte.ru
 dlcsordglft.xyz
 dlicord-glfts.site
 dlicsord.ru
+dliscocd.ru
 dliscord-gift.com
 dliscord-gift.ru.com
 dliscord-glft.ru
@@ -1383,8 +1385,6 @@ dlscord-app.net
 dlscord-app.ru
 dlscord-app.ru.com
 dlscord-app.site
-dlscord-app.su
-dlscord-app.su
 dlscord-app.su
 dlscord-app.xyz
 dlscord-apps.com
@@ -2226,6 +2226,7 @@ rust-award.com
 rust-charge.com
 rust-code.ru.com
 rust-drop.ru.com
+rust-facepunchs.com
 rust-gitfs.ru
 rust-giveaways.xyz
 rust-llc.com
@@ -2979,8 +2980,6 @@ steamcommunity.trade
 steamcommunity.us
 steamcommunity1.com
 steamcommunitya.com
-steamcommunitya.com
-steamcommunityc.com
 steamcommunityc.com
 steamcommunityc.ru
 steamcommunitycomoffernewpartner989791155tokenjbhldtj6.trade
@@ -3062,6 +3061,7 @@ steamcommunlty.biz
 steamcommunlty.cloud
 steamcommunlty.company
 steamcommunlty.info
+steamcommunlty.pl
 steamcommunlty.shop
 steamcommunlty.site
 steamcommunlty.store

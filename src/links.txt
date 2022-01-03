@@ -1983,6 +1983,7 @@ nitro-airdrop.org
 nitro-app-store.com
 nitro-app.com
 nitro-app.fun
+nitro-d.xyz
 nitro-discord.com
 nitro-discord.fun
 nitro-discord.info

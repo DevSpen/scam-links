@@ -977,6 +977,7 @@ discordgifte.com
 discordgifte.ru
 discordgifte.site
 discordgiftis.ru
+discordgiftlng.sbs
 discordgifts.co.uk
 discordgifts.com
 discordgifts.info
@@ -993,7 +994,6 @@ discordgive.ru.com
 discordgiveaway.fun
 discordgivenitro.com
 discordgivenitro.ru.com
-discordgiftlng.sbs
 discordglft.com
 discordglft.ru
 discordglfts.com
@@ -2918,8 +2918,8 @@ steamcommunitey.ru
 steamcommuniteypowered.com
 steamcommunitfy.com
 steamcommunitfy.ru.com
-steamcommunithy.com
 steamcommunitg.com
+steamcommunithy.com
 steamcommuniti.com.ru
 steamcommuniti.org
 steamcommuniti.org.ru

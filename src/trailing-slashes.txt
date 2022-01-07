@@ -4,6 +4,7 @@
 /billing
 /claim
 /claim-nitro
+/countis
 /discordnitro
 /drop
 /flage
@@ -13,9 +14,11 @@
 /gift
 /gift-nitro
 /gift_nitro
+/giveway2022
 /glft
 /heloyf
 /joinchat
+/new_year
 /newyear/freenitro
 /nitro
 /nitro-accept

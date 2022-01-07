@@ -279,6 +279,7 @@ dicsordgift.one
 dicsordgift.xyz
 dicsordgifts.ru
 dicsordgifts.xyz
+dicsordgive.ru
 dicsordnitro.info
 dicsordnitro.store
 dicsords-gifted.ru
@@ -347,6 +348,7 @@ disccords.com
 disccrd.gifts
 discford.com
 discgrd.com
+dischrd.com
 discird.gg
 discird.me
 disckordapp.com
@@ -427,6 +429,7 @@ discorb.gifts
 discorb.info
 discorb.ru
 discorb.ru.com
+discorbl.com
 discorc-nitro.site
 discorcd-app.com
 discorcd-apps.com
@@ -551,6 +554,7 @@ discord-boost.xyz
 discord-bot.com
 discord-bot.ru
 discord-bugs.com
+discord-certified.com
 discord-claim.com
 discord-claim.ru
 discord-claim.ru.com
@@ -671,6 +675,7 @@ discord-list.cf
 discord-load.ru
 discord-login.cf
 discord-main.ru.com
+discord-me.com
 discord-mega.xyz
 discord-mod.com
 discord-moderation.com
@@ -935,6 +940,7 @@ discorde-nitro.com
 discorde-nitro.xyz
 discorde.com
 discorde.gift
+discorde.ru
 discorde.xyz
 discordevents.cc
 discordevents.co
@@ -1014,6 +1020,7 @@ discordl.gift
 discordl.pw
 discordl.site
 discordl.xyz
+discordlapp.com
 discordlapp.fun
 discordlgift.com
 discordlgift.ru.com
@@ -1056,6 +1063,7 @@ discordnitrogifts.ml
 discordnitrogifts.pl
 discordnitrolink.tk
 discordnitropromo.site
+discordnitros.cf
 discordnitros.gifts
 discordnitros.xyz
 discordnitrosteam.com
@@ -1140,6 +1148,7 @@ discordsnitros.one
 discordspp.com
 discordss.ru
 discordstaff.xyz
+discordstars.tk
 discordstat.com
 discordsteam.com
 discordsteam.ru
@@ -1180,6 +1189,7 @@ discorrd.link
 discorrd.ru
 discorrd.site
 discorrdapp.com
+discorrl-nitro.ru
 discorrl.com
 discorsd.com
 discorsd.gifts
@@ -1233,6 +1243,7 @@ discrod.gg
 discrod.gift
 discrod.gifts
 discrod.pw
+discrod.ru
 discrod.us
 discrodapp.com
 discrodapp.ru
@@ -1242,6 +1253,7 @@ discrode-app.com
 discrode-gift.club
 discrode-gift.com
 discrode-gifte.club
+discrode.club
 discrodnitro.org
 discrodnitro.ru
 discrodnitro.site
@@ -1250,6 +1262,7 @@ discrods.site
 discrodsteam.online
 discrodsteam.ru
 discrodup.ru
+discrord-nitr.online
 discrord.com
 discrordapp.com
 discsord.com
@@ -1257,9 +1270,12 @@ discurcd.com
 discurd.js.org
 discvordapp.com
 discxordapp.com
+discxrd.com
+disczrd.com
 discörd.com
 disdrop.com.br
 disiscord.com
+diskord-app.club
 diskord.gg
 diskord.org.ru
 diskord.ru.com
@@ -1372,6 +1388,7 @@ dlscocl.xyz
 dlscocrd.club
 dlscocrd.com
 dlscocrdapp.com
+dlscoord-apps.com
 dlscorcl-app.xyz
 dlscorcl.com
 dlscorcl.gift
@@ -1771,6 +1788,7 @@ ggdrops.ru.com
 ggfail.xyz
 gglootgood.xyz
 gif-discord.com
+gife-discorde.com
 gifs-discord.com
 gift-discord.online
 gift-discord.ru
@@ -2146,6 +2164,7 @@ qcoldteam.life
 quick-cup.xyz
 quickmessage.us
 quickrobux.net
+quiz-discord.com
 rblxcorp.work
 rbux88.com
 rbux88go.com
@@ -2450,6 +2469,7 @@ staemcommunty.com
 staemcommunty.ru
 staemcommuntyi.ru
 staemcommunulty.ru
+staemcommunuty.me
 staemcommunyti.ru.com
 staemcomnuinty.ru
 staemcomnumity.ru
@@ -3560,6 +3580,7 @@ steamncommunitu.co
 steamncommunity.pp.ru
 steamncommunity.ru
 steamncommunity.xyz
+steamncommuunniity.com
 steamncomnmunity.com
 steamncomnunlty.com.ru
 steamncomunitity.com
@@ -3569,6 +3590,7 @@ steamnconmunity.ru.com
 steamnconmunity.work
 steamnconnmunity.com
 steamnitro.com
+steamnitroj.com
 steamnitros.com
 steamnitros.ru
 steamnltro.com
@@ -4001,6 +4023,7 @@ stearncommunite.com
 stearncommunitey.com
 stearncommunitey.ru
 stearncommunitly.xyz
+stearncommunitn.ru
 stearncommunity.click
 stearncommunity.link
 stearncommunity.net.ru
@@ -4732,6 +4755,7 @@ vkbonus.club
 wallet-steam.ml
 wanmeipt.ru
 wavebtc.com
+web-discord.com
 webr-roblox.com
 weeklyjob.online
 weplay.ru.com

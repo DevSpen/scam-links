@@ -4,8 +4,9 @@ You can contribute by creating a [pull request](https://docs.github.com/en/githu
 1. Fork this repository
 2. Make your changes\
   a. Be sure to update all the necessary files if you're adding links
-3. Create your pull request
-4. Explain what you changed and why in the pull request description
+3. Make sure the list is in alphabetical order ([wordcounter.net/alphabetize](https://wordcounter.net/alphabetize))
+4. Create your pull request
+5. Explain what you changed and why in the pull request description
 
 ### Using Issues
 If you'd like to use [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) instead of pull requests, you are welcomed to do so as well.\

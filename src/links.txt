@@ -36,8 +36,10 @@ aoeah.promo-codes.world
 app-discord.com
 app-discord.ru
 app-nitro.com
+applys-discord.com
 appnitro-discord.com
 appnitro-discord.ru.com
+apps-discord.com
 apps-discord.org
 apps-nitro.com
 asstralissteam.org.ru
@@ -231,6 +233,7 @@ der-csgo.ru
 derimonz.xyz
 derwoood.xyz
 dfiscord.com
+dfscord-app.club
 diacord.com
 diacordapp.com
 diascord.com
@@ -307,6 +310,7 @@ dilscord.com
 dilscord.gift
 dilscordi.com
 dilscordi.org.ru
+dilscordilgiftt.com
 dilscordl.com
 dioscord.com
 diqscordapp.com
@@ -351,6 +355,9 @@ disccord.tk
 disccordapp.live
 disccords.com
 disccrd.gifts
+disccrdapp.com
+discdrdapp.ru
+discerdapp.com
 discford.com
 discgrd.com
 dischrd.com
@@ -519,6 +526,7 @@ discord-airdrop.xyz
 discord-airnitro.xyz
 discord-alidrop.me
 discord-alrdrop.com
+discord-api.com
 discord-app.art
 discord-app.cc
 discord-app.click
@@ -676,6 +684,7 @@ discord-hse.com
 discord-hype.com
 discord-hypeevent.com
 discord-hypes.com
+discord-hypesquad.cf
 discord-hypesquad.com
 discord-hypesquade.com
 discord-hypesquads.com
@@ -704,7 +713,9 @@ discord-moderator.us
 discord-mods.com
 discord-net-labs.com
 discord-netro.ru
+discord-new.net.ru
 discord-news.com
+discord-news.ru.com
 discord-newyear.net.ru
 discord-niitro.ru
 discord-nilro.ru
@@ -926,6 +937,7 @@ discordappdownload.com
 discordappi.fun
 discordapplication.com
 discordapplication.xyz
+discordapply.com
 discordappo.com
 discordappp.com
 discordappp.net
@@ -943,6 +955,7 @@ discordbooster.com
 discordbothost.com
 discordbotist.com
 discordbots.app
+discordbug.com
 discordc.gift
 discordcanary.com
 discordcdn.sa.com
@@ -1004,6 +1017,7 @@ discordgift.site
 discordgift.tk
 discordgift.us
 discordgift.xyz
+discordgifta.online
 discordgifte.com
 discordgifte.ru
 discordgifte.site
@@ -1011,6 +1025,7 @@ discordgiftis.ru
 discordgiftlng.sbs
 discordgifts.co.uk
 discordgifts.com
+discordgifts.eu.org
 discordgifts.info
 discordgifts.link
 discordgifts.me
@@ -1037,8 +1052,10 @@ discordhalloween.uk
 discordhalloweens.com
 discordi.gift
 discordiapp.fun
+discordiasbox.com
 discordiatech.co.uk
 discordicon.com
+discordik.ru
 discordimages.com
 discordinfo.com
 discordinfo.ru
@@ -1079,6 +1096,7 @@ discordnitro.com
 discordnitro.fun
 discordnitro.gift
 discordnitro.gifts
+discordnitro.host
 discordnitro.info
 discordnitro.link
 discordnitro.pw
@@ -1268,6 +1286,7 @@ discrod-app.ru
 discrod-app.site
 discrod-apps.ru
 discrod-apps.xyz
+discrod-gg.ru
 discrod-gift.com
 discrod-gift.net.ru
 discrod-gift.xyz
@@ -1725,6 +1744,7 @@ facepunch-gifts.org.ru
 facepunch-llc.com
 facepunch-twitch.com
 facepunchltd.com
+facepunchs-studio.com
 facepunchs.com
 facepunchskins.com
 facerit.com
@@ -1913,6 +1933,7 @@ hydra2018.ru
 hyper-tournament.xyz
 hyperz.monster
 hypesquad.com.br
+hypesquad.info
 id-374749.ru
 idiscord.pro
 imvu37.blogspot.com
@@ -2343,6 +2364,7 @@ s1cases.site
 s1cses.site
 s92673tu.beget.tech
 sa-mcdonalds.com
+schoolmoderators.com
 scteamcommunity.com
 scwanmei.ru
 sdiscord.com
@@ -2524,6 +2546,7 @@ staemcommunility.com
 staemcommunily.com
 staemcommunily.ru.com
 staemcommunitiy.com
+staemcommunits.ru
 staemcommunitu.com
 staemcommunity.com.ru
 staemcommunity.info
@@ -2604,6 +2627,7 @@ staerncoinunitiy.me
 staerncomrmunity.com
 staerncormmunity.com
 staerncornmunity.com
+staff-discord.club
 staff-discord.net
 stammcommunity.com
 stampowered.com
@@ -2626,6 +2650,7 @@ steaamcomunity.com
 steaamcomunity.net
 steaamcomunity.ru.com
 steaamconnmunlty.com
+steaamcoomunnity.site
 steacmommunity.com
 steacommnunity.com
 steacommunilty.ru.com
@@ -2996,6 +3021,7 @@ steamcommunite.com.ru
 steamcommunitey.com
 steamcommunitey.ru
 steamcommuniteypowered.com
+steamcommunitez.online
 steamcommunitfy.com
 steamcommunitfy.ru.com
 steamcommunitg.com
@@ -3045,6 +3071,7 @@ steamcommunitu.com-profiles-mellenouz.trade
 steamcommunitu.icu
 steamcommunitu.net
 steamcommunitu.ru.com
+steamcommunitw.ru
 steamcommunitx.ru.com
 steamcommunity-com.xyz
 steamcommunity-comtradeoffer.ru
@@ -3168,6 +3195,7 @@ steamcommunllity.ru.com
 steamcommunllty.com
 steamcommunllty.ru
 steamcommunlte.ru
+steamcommunltes.online
 steamcommunltiy.club
 steamcommunltiy.com
 steamcommunltu.com
@@ -3807,6 +3835,7 @@ steamsourcecommunity.xyz
 steamsourcecommunity1.xyz
 steamsourcetrade.xyz
 steamspecial.com
+steamstore-pubg.com
 steamstore.map2.ssl.hwcdn.net
 steamstore.site
 steamstorepowered.com
@@ -4516,6 +4545,7 @@ store-discord.com
 store-steam-csgo.ru
 store-steamcomminuty.ru.com
 store-steampoweered.ru
+store-steampowereld.ru
 store-stempowered.com
 store-streampowered.me
 store.stampowered.com
@@ -4839,6 +4869,7 @@ ur-l.me
 v-roblox.com
 vbucksminer.ru
 verifapp.us
+verification-discord.cf
 verification-discord.com
 verifyaccount-for-bluetick.com
 viewc.site

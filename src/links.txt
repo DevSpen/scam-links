@@ -2140,6 +2140,7 @@ discrd.gifts
 discrdapp.cf
 discrdapp.com
 discrde.gift
+discrds.gift
 discrdspp.com
 discrocl-gift.xyz
 discrocl.xyz

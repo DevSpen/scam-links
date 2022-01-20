@@ -14,12 +14,13 @@
 /gift
 /gift-nitro
 /gift_nitro
+/giveaway-nitro
+/giveawaynitro
 /giveway2022
 /glft
 /heloyf
 /joinchat
 /new_year
-/newyear/freenitro
 /nitro
 /nitro-accept
 /nitro-gift

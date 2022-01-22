@@ -1973,6 +1973,7 @@ discordpromos.gifts
 discordpromos.us
 discordq.com
 discordqapp.com
+discordqift.xyz
 discordqpp.com
 discordqr.com
 discordr.xyz

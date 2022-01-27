@@ -115,6 +115,7 @@ app-discord.com
 app-discord.ru
 app-discordc.com
 app-discords.com
+app-hypesquad.online
 app-nitro.com
 application-discord.com
 application-hypesquad.com
@@ -464,6 +465,8 @@ csgothrive.com
 csgotournaments.cf
 csgowans.ru
 csgoworkshops.com
+csmagrkego.ru
+csmartscsgo.ru
 csrandom.monster
 css500gggo.ru
 csskins.space
@@ -1001,6 +1004,7 @@ discord-app.top
 discord-app.uk
 discord-app.us
 discord-app.xyz
+discord-application-moderators.xyz
 discord-application.com
 discord-applications.com
 discord-apply.cf
@@ -1228,12 +1232,14 @@ discord-hypesquad.cf
 discord-hypesquad.com
 discord-hypesquad.fun
 discord-hypesquad.net
+discord-hypesquad.site
 discord-hypesquade.com
 discord-hypesquaders.com
 discord-hypesquadevent.com
 discord-hypesquadevents.com
 discord-hypesquads.com
 discord-hypevent.com
+discord-hypevents.com
 discord-hypevotes.com
 discord-info.com
 discord-infoapp.xyz
@@ -1261,6 +1267,7 @@ discord-mod.com
 discord-moderation-test.com
 discord-moderation.com
 discord-moderator-academy.com
+discord-moderator.app
 discord-moderator.com
 discord-moderator.info
 discord-moderator.us
@@ -1724,6 +1731,7 @@ discordformulary.com
 discordfree.club
 discordfree.com
 discordfree.ru
+discordfreenitro.gq
 discordfreenitro.pl
 discordfreenitrogift.limited
 discordfrnitro.site
@@ -1911,6 +1919,7 @@ discordhalloween.com
 discordhalloween.gift
 discordhalloween.uk
 discordhalloweens.com
+discordhelp.ml
 discordhelpsupport.com
 discordhitro.gifts
 discordhunters.com
@@ -1940,6 +1949,7 @@ discordjob.com
 discordjp.com
 discordjs.tech
 discordjsteam.com
+discordl-app.com
 discordl-steam.com
 discordl.com
 discordl.gift
@@ -2502,6 +2512,7 @@ djscord.ru
 djscord.store
 djscordl.com
 djscorld.gift
+djsocrd.com
 dkscord.com
 dlcorcl-me.com
 dlcord.gift
@@ -2581,6 +2592,7 @@ dlscorb-nutro.online
 dlscorcd-nitro.com
 dlscorcl-app.com
 dlscorcl-app.xyz
+dlscorcl-nitro.site
 dlscorcl.com
 dlscorcl.gift
 dlscorcl.info
@@ -2695,6 +2707,7 @@ dlscord-support.com
 dlscord-to.xyz
 dlscord-verification.com
 dlscord-winter.online
+dlscord-winter.ru
 dlscord.app
 dlscord.art
 dlscord.best
@@ -2911,6 +2924,7 @@ dsciord.com
 dscocrd.com
 dscord-generaot.store
 dscord-gif.xyz
+dscord-nitro.cf
 dscord-nitro.com
 dscord-nitro.xyz
 dscord.com
@@ -3408,6 +3422,7 @@ hypesquad-join.xyz
 hypesquad-mod.com
 hypesquad-moderator.academy
 hypesquad-moderator.com
+hypesquad-new.com
 hypesquad-register.com
 hypesquad-singup.com
 hypesquad-survey.info
@@ -3575,6 +3590,7 @@ ldlscord.com
 ldlscordapp.com
 leancoding.co
 lef23671.justinstalledpanel.com
+legit-drop.ru
 lesvirus.fr
 letmessagenow.com
 lib2.biz
@@ -3659,6 +3675,7 @@ malwareremovalbot.com
 mandljigeografija.xyz
 marafonec.com
 marbling.pe.kr
+markcestgo.ru
 market-subito.site
 marketsleam.xyz
 maroohost.online
@@ -3710,6 +3727,7 @@ moderator-hypesquad.com
 moderator-invite.com
 moderator-join.com
 moderator-school.com
+moderator-team.com
 moderator.hypesquad-survey.info
 moderatoracademiaforms.com
 moderatoracademyforms.com

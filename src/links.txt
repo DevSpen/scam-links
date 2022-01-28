@@ -3451,6 +3451,7 @@ hypesquad-events.com
 hypesquad-events.gift
 hypesquad-events.net
 hypesquad-formulary.com
+hypesquad-houses-events.com
 hypesquad-join.info
 hypesquad-join.online
 hypesquad-join.xyz
@@ -3459,6 +3460,7 @@ hypesquad-mod.com
 hypesquad-moderator.academy
 hypesquad-moderator.com
 hypesquad-new.com
+hypesquad-program.com
 hypesquad-register.academy
 hypesquad-register.com
 hypesquad-signup.com

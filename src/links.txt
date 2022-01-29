@@ -1232,7 +1232,10 @@ discord-hype-squad.com
 discord-hype.com
 discord-hype.ml
 discord-hypebadges.com
+discord-hypedsquad.com
 discord-hypeevent.com
+discord-hypeevents.com
+discord-hypeprogram.com
 discord-hypes.com
 discord-hypesquad-apply.com
 discord-hypesquad-events.com
@@ -1940,6 +1943,7 @@ discordhitro.gifts
 discordhunters.com
 discordhype-squad.com
 discordhypesquad.net
+discordhypesquadevents.com
 discordi-steam.com
 discordi.com
 discordi.gift
@@ -2617,6 +2621,7 @@ dlscorcd-nitro.com
 dlscorcl-app.com
 dlscorcl-app.xyz
 dlscorcl-nitro.site
+dlscorcl-up.com
 dlscorcl.com
 dlscorcl.gift
 dlscorcl.info
@@ -3486,6 +3491,7 @@ hypesquadevents-join.com
 hypesquadevents-mod.com
 hypesquadevents-register.com
 hypesquadevents-singup.com
+hypesquadevents-subscription.com
 hypesquadform.com
 hypesquadforms.com
 hypesquadformulary.com
@@ -4278,6 +4284,7 @@ reerobloxgenerator.tk
 referralpay.co
 regeralnet.xyz
 register-hypesquad.com
+register-moderator.com
 regsweep.com
 reimageplusminus.me
 remontidekor.ru
@@ -6748,6 +6755,7 @@ steancomnumlty.ru
 steancomnuniiity.ru
 steancomnuniity.com
 steancomnunilty.ru
+steancomnunity.buzz
 steancomnunity.com
 steancomnunity.ru
 steancomnunity.ru.com

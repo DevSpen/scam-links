@@ -3888,6 +3888,7 @@ moderator-academy-forms.com
 moderator-academy.online
 moderator-applications.com
 moderator-hypesquad.com
+moderator-hypesquadacademy.com
 moderator-invite.com
 moderator-join.com
 moderator-school.com
@@ -3902,6 +3903,7 @@ moderatoracademyregister.com
 moderatordiscordinvite.com
 moderatorforms.com
 moderatorinstitute.com
+moderatorinvite.com
 moderatorjoin.com
 moderators-academy-form.com
 moderators-academy-join.com

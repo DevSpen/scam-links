@@ -119,6 +119,7 @@ app-discordc.com
 app-discords.com
 app-hypesquad.com
 app-hypesquad.online
+app-hypesquadevents.com
 app-nitro.com
 application-discord.com
 application-hypesquad.com

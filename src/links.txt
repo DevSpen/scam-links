@@ -130,6 +130,7 @@ applications-hypesquadevents.com
 applicationsdiscord.com
 applicationsformularyhypesquad.com
 apply-discord-academy.com
+apply-discord-hypesquad.com
 apply-discord.com
 apply-event-hypesquad.com
 apply-for-hypesquad.com
@@ -197,6 +198,8 @@ beast-winer.ru
 become-moderators.com
 bector-blotance.xyz
 bedcity-lake.top
+bedevelopergroup.com
+bedevelopers.info
 bedevlopers.com
 bedynet.ru
 beefyv.com
@@ -1263,8 +1266,10 @@ discord-hypedsquad.com
 discord-hypeevent.com
 discord-hypeevents.com
 discord-hypeprogram.com
+discord-hypersquad.com
 discord-hypes.com
 discord-hypesquad-apply.com
+discord-hypesquad-event.tk
 discord-hypesquad-events.com
 discord-hypesquad-join.com
 discord-hypesquad.cf
@@ -1309,6 +1314,7 @@ discord-moderation-test.com
 discord-moderation.com
 discord-moderator-academy.com
 discord-moderator-academy.xyz
+discord-moderator-apply.com
 discord-moderator-event.fun
 discord-moderator-exam.com
 discord-moderator-form.com
@@ -1551,6 +1557,7 @@ discord.download
 discord.es
 discord.eu
 discord.events
+discord.exchange
 discord.family
 discord.fit
 discord.foundation
@@ -1994,6 +2001,8 @@ discordhunters.com
 discordhype-squad.com
 discordhypesquad.net
 discordhypesquadevents.com
+discordhypesquadsevent.com
+discordhypesquadsevents.com
 discordi-steam.com
 discordi.com
 discordi.gift
@@ -2259,6 +2268,7 @@ discordsteamf.com
 discordsteami.com
 discordsteamj.com
 discordsteaml.com
+discordsteamr.com
 discordsteams.com
 discordsteams.net
 discordsteams.org
@@ -2641,6 +2651,7 @@ dliscord.shop
 dliscord.store
 dliscord.us
 dliscord.xyz
+dliscordapp.com
 dliscordglift-nitro.com
 dliscordl.com
 dliscordnltro.com
@@ -3534,6 +3545,7 @@ hypesquad-discord.com
 hypesquad-discord.info
 hypesquad-enter.com
 hypesquad-entertainment.com
+hypesquad-event.info
 hypesquad-events-app.com
 hypesquad-events-apply.com
 hypesquad-events-discord.com
@@ -3557,6 +3569,7 @@ hypesquad-moderator.com
 hypesquad-new.com
 hypesquad-program.com
 hypesquad-programevents.com
+hypesquad-redeem.com
 hypesquad-register.academy
 hypesquad-register.com
 hypesquad-signup.com
@@ -3776,6 +3789,7 @@ localsnapsext.com
 lock-omsk.ru
 log-in-hypesquad.com
 login-hypesquad.com
+login-hypesquadacademy.com
 loginrun.info
 longxrun.online
 loot-conveyor.com
@@ -3901,6 +3915,7 @@ moderatoracademyforms.com
 moderatoracademyinvite.com
 moderatoracademyregister.com
 moderatordiscordinvite.com
+moderatorformdiscord.com
 moderatorforms.com
 moderatorinstitute.com
 moderatorinvite.com
@@ -4416,9 +4431,11 @@ redizzz.xyz
 reerobloxgenerator.tk
 referralpay.co
 regeralnet.xyz
+register-formulary.com
 register-hypesquad.com
 register-moderator.com
 register-moderators.com
+register.hypesquad-event.info
 regsweep.com
 reimageplusminus.me
 remontidekor.ru
@@ -6050,6 +6067,7 @@ steamcomnmunilty.com
 steamcomnmunity.com
 steamcomnmunity.com.ru
 steamcomnmunity.ru.com
+steamcomnmunlity.com
 steamcomnmunlty.com
 steamcomnmuntiy.ru.com
 steamcomnmutly.ru.com
@@ -6241,6 +6259,7 @@ steamcomunty.org.ru
 steamcomunuity.ru
 steamcomunutiy.com.ru
 steamcomunuty.com
+steamcomunuty.me
 steamcomunuty.ru
 steamcomunuty.xyz
 steamcomunyiti.ru.com
@@ -7109,6 +7128,7 @@ stearncomminhty.com
 stearncomminuity.co
 stearncomminutg.ru
 stearncomminutiu.ru
+stearncomminutiy.ru
 stearncomminuty.click
 stearncomminuty.com
 stearncomminuty.com.ru
@@ -8303,6 +8323,7 @@ ttr-discord.ru.com
 turboadblocker.com
 turibius-hra.com
 turmouse.ru
+twitch-csgoconnect.gifts
 twitch-facepunchs.com
 twitch-nude.com
 twitch-rust.com
@@ -8383,6 +8404,7 @@ watch-video.net
 watchprecise-bestextremelyfile.best
 wavebtc.com
 wdeliv.net
+web-discord-moderator.com
 web-discord.com
 webpushcloud.top
 webr-roblox.com

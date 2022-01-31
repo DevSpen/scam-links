@@ -3544,6 +3544,7 @@ hypesquad-events.com
 hypesquad-events.gift
 hypesquad-events.net
 hypesquad-formulary.com
+hypesquad-house.com
 hypesquad-houses-events.com
 hypesquad-invite.xyz
 hypesquad-join.info
@@ -3599,6 +3600,7 @@ hypesquadsevents.com
 hypesquadteam-academy.com
 hypesquadteam.com
 hypesquadteams-join.com
+hypesquadteams-start.com
 hypixel.run
 hypixelskyblock.net
 i-no.ru
@@ -3896,6 +3898,7 @@ moderator.hypesquad-survey.info
 moderatoracademiaforms.com
 moderatoracademyforms.com
 moderatoracademyinvite.com
+moderatoracademyregister.com
 moderatordiscordinvite.com
 moderatorforms.com
 moderatorinstitute.com
@@ -6133,6 +6136,7 @@ steamcomnuty.com
 steamcomnuty.ru
 steamcomnuunlty.com
 steamcomnynitiy.ru
+steamcomnynitu.com
 steamcomnynity.ru
 steamcomonity.com
 steamcomrmunity.ru.com

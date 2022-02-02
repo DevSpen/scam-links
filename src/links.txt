@@ -39,6 +39,9 @@ academy-mod.com
 academy-moderator.com
 academy-moderator.xyz
 academy-moderators-test.com
+academy-partner.com
+academy-signup-discord.com
+academy-signup.com
 academydiscord.com
 academymoderation.tech
 academymoderator-join.com
@@ -125,6 +128,7 @@ application-discord.com
 application-hypesquad.com
 application-hypesquadevents.com
 application-hypevents.com
+application-moderators.com
 applications-discord.com
 applications-hypesquadevents.com
 applicationsdiscord.com
@@ -135,6 +139,7 @@ apply-discord.com
 apply-event-hypesquad.com
 apply-for-hypesquad.com
 apply-hype-squad-event.com
+apply-hype-squad.com
 apply-hypeevents.com
 apply-hypesquad-events.com
 apply-hypesquad.club
@@ -202,6 +207,7 @@ bedcity-lake.top
 bedevelopergroup.com
 bedevelopers.info
 bedevlopers.com
+bedevlopers.info
 bedynet.ru
 beefyv.com
 belekevskeigames.xyz
@@ -267,6 +273,7 @@ boosted-nitro.com
 boostnitro.co
 boostnitro.com
 boostnitro.shop
+boostnitro.xyz
 boostnitrogift.com
 boostnltro.com
 boosts-nitro.com
@@ -535,6 +542,7 @@ derwoood.xyz
 descargarjuegospc.net
 dev-discord.com
 devdiscord.com
+devlopers.info
 dfiscord.com
 dfscord-app.club
 dfscord-app.com
@@ -885,6 +893,7 @@ discor.link
 discor.me
 discor3.com
 discorad.com
+discoradpp.com
 discorapp.gq
 discorapp.pw
 discorb-nitro.ru.com
@@ -979,6 +988,7 @@ discord-a.com
 discord-academy.app
 discord-academy.com
 discord-academymoderator.com
+discord-academys.com
 discord-academyvotes.com
 discord-acc.ru
 discord-accept.com
@@ -1034,6 +1044,7 @@ discord-app.top
 discord-app.uk
 discord-app.us
 discord-app.xyz
+discord-application-moderators.com
 discord-application-moderators.xyz
 discord-application.com
 discord-applications.com
@@ -1119,6 +1130,7 @@ discord-fill.com
 discord-form.com
 discord-formhypesquad.com
 discord-forms.com
+discord-formulary-academy.com
 discord-formulary.com
 discord-free-nitro.com
 discord-free-nitro.ru
@@ -1269,10 +1281,12 @@ discord-hypebadges.com
 discord-hypedsquad.com
 discord-hypeevent.com
 discord-hypeevents.com
+discord-hypeforms.com
 discord-hypeprogram.com
 discord-hypersquad.com
 discord-hypes.com
 discord-hypesquad-apply.com
+discord-hypesquad-event-join.site
 discord-hypesquad-event.tk
 discord-hypesquad-events.com
 discord-hypesquad-join.com
@@ -1330,6 +1344,7 @@ discord-moderator.com
 discord-moderator.info
 discord-moderator.us
 discord-moderatorapply.com
+discord-moderators-formulary.com
 discord-moderators-institute.com
 discord-mods.com
 discord-net-labs.com
@@ -1464,6 +1479,7 @@ discord-security.com
 discord-server.ru
 discord-service.com
 discord-service.xyz
+discord-services.online
 discord-sex.live
 discord-shop.com
 discord-shop.fun
@@ -1808,6 +1824,7 @@ discordfgift.ru.com
 discordforcreators.com
 discordforms-moderator.com
 discordforms.com
+discordformulary-academy.online
 discordformulary.com
 discordfree.club
 discordfree.com
@@ -2136,6 +2153,7 @@ discordnitropromo.site
 discordnitros.cf
 discordnitros.com
 discordnitros.gifts
+discordnitros.info
 discordnitros.ml
 discordnitros.xyz
 discordnitrosteam.com
@@ -2324,6 +2342,7 @@ discordu.gift
 discordua.ga
 discordunblocked.com
 discordup.ru
+discordusa.xyz
 discordverification.com
 discordwayx.xyz
 discordx.link
@@ -2406,6 +2425,7 @@ discozd.ru
 discpordapp.com
 discprd.com
 discqorcl.com
+discqrclapp.com
 discqrd-gift.ru.com
 discqrd.gift
 discqrdapp.com
@@ -2524,6 +2544,7 @@ diskurd.com
 dislcord.com
 disnitr.com
 disntro.com
+disoard-nitro.info
 disocordapp.com
 disocr.com
 disocrd-gift.com
@@ -2875,6 +2896,7 @@ dlscord.online
 dlscord.org
 dlscord.org.ru
 dlscord.org.uk
+dlscord.party
 dlscord.photos
 dlscord.press
 dlscord.pro
@@ -2938,6 +2960,7 @@ dlscordglfts.xyz
 dlscordl.ru
 dlscordl.site
 dlscordmaster-nitrogiveraway.net
+dlscordmoderaytor.com
 dlscordniltro.com
 dlscordnito.com
 dlscordnitro.com
@@ -3220,6 +3243,7 @@ form-hypesquad.com
 form-hypesquadevents.com
 form-moderator-school.com
 form-moderator.com
+form-moderators.com
 form-moderatorteam.com
 formhypesquad.com
 formhypesquadevents.com
@@ -3572,6 +3596,7 @@ hyperz.monster
 hypesqaudevents-mod.com
 hypesquad-app.academy
 hypesquad-application.academy
+hypesquad-applications.info
 hypesquad-apply.com
 hypesquad-bravery.com
 hypesquad-club.tech
@@ -3589,6 +3614,7 @@ hypesquad-events.club
 hypesquad-events.com
 hypesquad-events.gift
 hypesquad-events.net
+hypesquad-forms.org
 hypesquad-formulary.com
 hypesquad-house.com
 hypesquad-houses-events.com
@@ -3683,6 +3709,7 @@ imvu37.blogspot.com
 incorphishor.com
 indereyn.ru.com
 info-developers.com
+infodevelopers.info
 infodiscord-nitro.su
 infohypesquad.com
 information-discord.com
@@ -3829,8 +3856,11 @@ localsexfinderxxx4.com
 localsnapsext.com
 lock-omsk.ru
 log-in-hypesquad.com
+login-discordmoderator.com
+login-hypeevents.com
 login-hypesquad.com
 login-hypesquadacademy.com
+login-hypesquadevent.com
 loginrun.info
 longxrun.online
 loot-conveyor.com
@@ -3941,22 +3971,28 @@ moderato-academy.tech
 moderator-academy-events.com
 moderator-academy-forms.com
 moderator-academy.online
+moderator-academy.xyz
 moderator-applications.com
 moderator-hypesquad.com
 moderator-hypesquadacademy.com
 moderator-invite.com
 moderator-join.com
+moderator-login.com
 moderator-register.com
 moderator-school.com
 moderator-singup.com
 moderator-team.com
+moderator-teams.com
 moderator-test.com
+moderator-tester.com
 moderator-vote.com
 moderator.hypesquad-survey.info
 moderatoracademiaforms.com
+moderatoracademydiscord.com
 moderatoracademyforms.com
 moderatoracademyinvite.com
 moderatoracademyregister.com
+moderatordiscord-forms.com
 moderatordiscordinvite.com
 moderatorformdiscord.com
 moderatorforms.com
@@ -3973,6 +4009,7 @@ moderators-formulary.com
 moderators-hypesquad.com
 moderators-hypesquadevents.com
 moderators-recruitment.com
+moderators-school.com
 moderators-team.com
 moderators-teams.com
 moderators-vote.com
@@ -4098,6 +4135,7 @@ nitro-airdrop.org
 nitro-app-store.com
 nitro-app.com
 nitro-app.fun
+nitro-b.xyz
 nitro-boost.com
 nitro-boost.pw
 nitro-boost.ru
@@ -4151,6 +4189,7 @@ nitro-go.xyz
 nitro-made.com
 nitro-mechanics.com
 nitro-one.xyz
+nitro-s.xyz
 nitro-sell.xyz
 nitro-shop.ru
 nitro-steam.ru.com
@@ -4703,10 +4742,13 @@ sieamcommunity.net.ru
 sieamcommunity.org.ru
 sieamcomnunity.org.ru
 signup-hypeevents.com
+signup-hypesquadevents.com
 signup-moderadordiscord.com
+signup-moderadors-academy.com
 signup-moderator.com
 signup-moderatordiscord.com
 sinder8.com
+singup-moderator.com
 sitemap.onedrrive.com
 sitenitro-full.xyz
 skinbarona.com
@@ -4964,6 +5006,7 @@ staemcommuinity.com
 staemcommuinity.me
 staemcommuinity.ru
 staemcommuity.me
+staemcommunetiy.com
 staemcommunety.com
 staemcommuniity.com
 staemcommunility.com
@@ -4971,6 +5014,7 @@ staemcommunily.com
 staemcommunily.ru.com
 staemcommuninity.org.ru
 staemcommuninuty.com
+staemcommunirty.cc
 staemcommunitee.xyz
 staemcommuniti.me
 staemcommunitiy.com
@@ -5136,6 +5180,7 @@ starmcommunity.net
 starncommnunnits.site
 start-hypesquad.com
 start-hypesquadevent.com
+start-hypesquadevents.com
 startfullds.com
 stay-notified.live
 staybitex.com
@@ -5971,6 +6016,7 @@ steamcommunnity.ru
 steamcommunnity.ru.com
 steamcommunnjty.com
 steamcommunnlity.ru
+steamcommunnlty.com
 steamcommunnlty.com.ru
 steamcommunnty.ru
 steamcommunnuty.online
@@ -6036,6 +6082,7 @@ steamcommunytes.com
 steamcommunyti.com
 steamcommunyti.info
 steamcommunyti.ru
+steamcommunytis.com
 steamcommunytitradeoffer.com
 steamcommunytiu.com
 steamcommunytiu.ru
@@ -6083,6 +6130,7 @@ steamcommuwunity.com
 steamcommuynity.ru.com
 steamcommyinuty.ru
 steamcommymity.ru
+steamcommyniication.org.ru
 steamcommynite.com
 steamcommynites.com
 steamcommyniti.com
@@ -6161,6 +6209,7 @@ steamcomnuitiy.ru
 steamcomnuity.ru
 steamcomnulity.me
 steamcomnulty.com
+steamcomnulty.ru
 steamcomnumilty.com
 steamcomnumily.com
 steamcomnumity.com
@@ -6278,6 +6327,7 @@ steamcomuninruty.ru
 steamcomuniti.com
 steamcomuniti.ru
 steamcomuniti.xyz
+steamcomunitl.xyz
 steamcomunitly.pp.ru
 steamcomunitly.ru
 steamcomunits.ru
@@ -6628,6 +6678,7 @@ steamncommunitu.co
 steamncommunity.pp.ru
 steamncommunity.ru
 steamncommunity.xyz
+steamncommunlity.com
 steamncommunuty.ru
 steamncommunytu.ru
 steamncommuunniity.com
@@ -7344,6 +7395,7 @@ stearncormunniti.org
 stearncornminuty.com
 stearncornminuty.ru
 stearncornmnuity.ru
+stearncornmnunity.xyz
 stearncornmrunity.ru.com
 stearncornmumity.ru
 stearncornmunitiy.com
@@ -7629,6 +7681,7 @@ stemcomnmunity.com.ru
 stemcomnmunity.ru.com
 stemcomnmunniity.com
 stemcomnmunnity.com
+stemcomnmunnity.ru.com
 stemcomnmunuity.com
 stemcomnmununity.com
 stemcomnmuunity.com

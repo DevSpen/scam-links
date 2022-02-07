@@ -3242,6 +3242,7 @@ events-discord.com
 events-hypesquad.com
 events.dlscord.click
 eventsdiscord.com
+eventsmoderation-discord.com
 everpg.online
 ewqdsa.xyz
 exaltedbot.xyz
@@ -3956,6 +3957,7 @@ log-in-hypesquad.com
 login-discordmoderator.com
 login-hype-events.com
 login-hypeevents.com
+login-hype-squad.com
 login-hypesquad.com
 login-hypesquadacademy.com
 login-hypesquadevent.com

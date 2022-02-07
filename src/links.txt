@@ -2279,6 +2279,7 @@ discordrsgift.xyz
 discords-accounts.ru
 discords-app.com
 discords-app.site
+discords.chat
 discords-dev.ga
 discords-developers.com
 discords-events.com

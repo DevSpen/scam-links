@@ -2327,7 +2327,6 @@ discordrsgift.xyz
 discords-accounts.ru
 discords-app.com
 discords-app.site
-discords.chat
 discords-dev.ga
 discords-developers.com
 discords-events.com
@@ -2364,6 +2363,7 @@ discords-support.com
 discords-teams.com
 discords-to.com
 discords.biz
+discords.chat
 discords.co.uk
 discords.company
 discords.cool
@@ -2799,6 +2799,7 @@ dlcsord-gifte.ru
 dlcsord.com
 dlcsordglft.xyz
 dlcsordnitro.xyz
+dlcsordsgifts.com
 dlicord-glfts.site
 dlicords.com
 dlicsord.ru
@@ -4039,7 +4040,6 @@ login-discordmoderator.com
 login-hype-events.com
 login-hype-squad.com
 login-hypeevents.com
-login-hype-squad.com
 login-hypesquad.com
 login-hypesquadacademy.com
 login-hypesquadevent.com
@@ -7768,6 +7768,7 @@ steeammcomunlty.com
 steeampowered.tk
 steellseriesnitro.com
 steellseriesnitros.com
+steellsseriesgifts.com
 steellsseriespromotion.com
 steellsseriespromotions.com
 steelseriesgift.com

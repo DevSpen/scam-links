@@ -2662,6 +2662,7 @@ discozd.com
 discozd.ru
 discpordapp.com
 discprd.com
+discprd.gift
 discqorcl.com
 discqrclapp.com
 discqrd-gift.ru.com
@@ -4671,6 +4672,7 @@ nitro-gift.top
 nitro-gift.xyz
 nitro-give.site
 nitro-gl.xyz
+nitro-glft.xyz
 nitro-go.xyz
 nitro-j.xyz
 nitro-l.xyz

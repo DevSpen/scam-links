@@ -2,7 +2,7 @@
 ### Using Pull Requests
 You can contribute by creating a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request):
 1. Fork this repository
-1. Make your changes\ 
+1. Make your changes
 1. Create your pull request
 
 ### Guidelines

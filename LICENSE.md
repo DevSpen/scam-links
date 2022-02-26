@@ -1,6 +1,6 @@
 ### TL;DR:
 ![](https://user-images.githubusercontent.com/69215413/133941995-f496d48a-be12-46aa-9f06-36d8fe8c717b.png)\
-*Uses The [Unlicense](https://choosealicense.com/licenses/unlicense/#) License.*
+*Uses The [Unlicense](https://choosealicense.com/licenses/unlicense/#).*
 
 --------
 

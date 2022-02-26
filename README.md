@@ -12,4 +12,4 @@
 - Want to contribute? Read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ### API
-An awesome API for fetching the latest scam links and scanning text for scams is coming very soon 🙌
+Check out our awesome free-to-use API [here](https://spen.tk/api/ 'API Home Page').

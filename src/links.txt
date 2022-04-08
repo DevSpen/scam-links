@@ -1017,6 +1017,7 @@ discorcd-app.com
 discorcd-apps.com
 discorcd-booster.ru
 discorcd-gift.com
+discorcd-gifts.com
 discorcd-nitro.com
 discorcd.click
 discorcd.com
@@ -1036,6 +1037,7 @@ discorcl-app.ru
 discorcl-app.site
 discorcl-app.xyz
 discorcl-apps.ru
+discorcl-apps.xyz
 discorcl-boost.ru
 discorcl-boost.shop
 discorcl-club.com
@@ -1208,6 +1210,7 @@ discord-claim.com
 discord-claim.ru
 discord-claim.ru.com
 discord-clap.com
+discord-classic.com
 discord-click.shop
 discord-club.org
 discord-club.ru
@@ -1240,6 +1243,7 @@ discord-drops.com
 discord-drops.ru
 discord-drops.xyz
 discord-egift.com
+discord-egifts.online
 discord-epicgames.com
 discord-event.com
 discord-event.fun
@@ -1376,6 +1380,7 @@ discord-giveaway.site
 discord-giveaways.ru
 discord-gives.ru
 discord-gjft.com
+discord-gjfts.com
 discord-glft.cf
 discord-glft.com
 discord-glft.ga
@@ -1649,6 +1654,7 @@ discord-oauth2.tk
 discord-offer.com
 discord-offers.com
 discord-og.com
+discord-one.ru
 discord-online.com
 discord-online.ru
 discord-org.com
@@ -2848,6 +2854,7 @@ discrod-nitro.com
 discrod-nitro.fun
 discrod-nitro.info
 discrod-nitro.ru
+discrod-steam.com
 discrod-up.ru
 discrod.com
 discrod.exile.lv
@@ -3035,6 +3042,7 @@ divineenterprises.net
 divinegardens.xyx
 diwcord.com
 dixcord.com
+dixcord.gq
 dixinl.github.io
 dixscord.com
 dizcord.app
@@ -3071,6 +3079,7 @@ dlcsord-gifte.ru
 dlcsord.com
 dlcsordglft.xyz
 dlcsordnitro.xyz
+dlcsords-gifts.ru
 dlcsordsgifts.com
 dlicord-glfts.site
 dlicords.com
@@ -3089,6 +3098,7 @@ dliscord-gifts.com
 dliscord-giveaway.ru
 dliscord-glft.ru
 dliscord-glft.ru.com
+dliscord-go.com
 dliscord-nitro.com
 dliscord-nitros.ru
 dliscord.com
@@ -3107,6 +3117,7 @@ dliscorde.com
 dliscordglift-nitro.com
 dliscordl.com
 dliscordnltro.com
+dliscords-go.com
 dliscords.com
 dliscrd.one
 dlisocrd.com
@@ -3195,6 +3206,7 @@ dlscord-game.ru
 dlscord-generator.ru.com
 dlscord-get.xyz
 dlscord-gg.com
+dlscord-gift-steam.ru
 dlscord-gift.com
 dlscord-gift.one
 dlscord-gift.online
@@ -3220,6 +3232,7 @@ dlscord-glft.pw
 dlscord-glft.ru
 dlscord-glft.ru.com
 dlscord-glft.xyz
+dlscord-glfte.com
 dlscord-glfts.com
 dlscord-glfts.net.ru
 dlscord-glfts.xyz
@@ -3557,6 +3570,7 @@ easycommerce.cf
 egift-nitro.com
 egift-now.com
 egift-premium.com
+egifte-premium.com
 egiftpremium.com
 egifts-premium.com
 electronika.spb.ru
@@ -3715,6 +3729,7 @@ forms-moderator.com
 forms-moderators-academy.com
 forms-moderatorsacademy.com
 forms-sub.com
+forms-testers-renews-moderetors.com
 formshypesquad.com
 formtest-academy.com
 formulary-academy-mod.com
@@ -3942,6 +3957,7 @@ gift-nitro.events
 gift-nitro.group
 gift-nitro.shop
 gift-nitro.store
+gift-steam-discord.com
 giftdiscord.info
 giftdiscord.online
 giftdiscord.site
@@ -4397,6 +4413,7 @@ join-hypesquad.net
 join-hypesquad.online
 join-hypesquad.xyz
 join-hypesquadacademy.com
+join-hypesquadevent-form.com
 join-hypesquadevent.com
 join-hypesquadevents-team.com
 join-hypesquadevents.com
@@ -4907,6 +4924,7 @@ netund.com
 new-collects.xyz
 new-drop.net.ru
 new-give.com
+new-hypesquadevent-form.com
 new-lady-here12.com
 new-steamcommunlty.xyz
 new.mychaelknight.com
@@ -6239,6 +6257,7 @@ steam-free.ru.com
 steam-game-csgo.ru
 steam-gametrade.xyz
 steam-gift-codes.com
+steam-gift-discord.ru
 steam-gift.ir
 steam-gift.online
 steam-historyoffer.xyz
@@ -6676,6 +6695,7 @@ steamcommunitey.ru
 steamcommuniteypowered.com
 steamcommunitez.online
 steamcommunitez.ru
+steamcommunitf.ru
 steamcommunitfy.com
 steamcommunitfy.ru.com
 steamcommunitg.com
@@ -7678,6 +7698,7 @@ steammcomminity.ru
 steammcomminuty.ru
 steammcommmunity.online
 steammcommmunity.ru
+steammcommnity.net.ru
 steammcommnuty.ru
 steammcommunety.com
 steammcommuniity.ru
@@ -7919,6 +7940,7 @@ steamstoretrade1.xyz
 steamstradecommunity.xyz
 steamsummer.com
 steamswap.xyz
+steamtcommunity.com
 steamtnitro.com
 steamtrade-game.xyz
 steamtrade-home.xyz
@@ -7938,6 +7960,7 @@ steamtradesofer.com
 steamtradestore.xyz
 steamtradestore1.xyz
 steamtrading.org
+steamucommunity.com
 steamunlocked.online
 steamunlocked.pro
 steamunpowered.com

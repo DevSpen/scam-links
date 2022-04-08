@@ -734,6 +734,7 @@ dicsords.club
 dicsords.com
 dicsords.ru
 dicsred.gift
+dicsrod-egifte.com
 dicsrod.com
 dicsrodapp.com
 didiscord.com
@@ -5249,6 +5250,7 @@ prefix.net.ru
 preimumgift-ds.com
 premium-discord.com
 premium-discords.com
+premium-ds.com
 premium-egifts.com
 premium-gives.com
 premiumbros.com

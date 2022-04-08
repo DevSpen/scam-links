@@ -1711,6 +1711,7 @@ discord-stat.com
 discord-statics.com
 discord-statistics.xyz
 discord-stats.org
+discord-steam-gift.com
 discord-steam-promo.com
 discord-steam.club
 discord-steam.com
@@ -9584,6 +9585,7 @@ verifications-discord.com
 verify-discord.com
 verifyaccount-badge.ml
 verifyaccount-for-bluetick.com
+vertmaxbit.com
 vfgrse.com
 vhoru.com.ua
 vid-adblocker.com

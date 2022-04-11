@@ -5425,6 +5425,8 @@ register-moderator.com
 register-moderatordiscord.com
 register-moderators-academy.com
 register-moderators.com
+register-newhypesquad-event.com
+register-newhypesquad-program.com
 register.hypesquad-event.info
 registeracademymoderator.com
 registerdiscord-academy.com

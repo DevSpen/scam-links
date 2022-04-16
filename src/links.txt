@@ -3065,6 +3065,8 @@ djlscord.ru
 djlscord.xyz
 djscorcl.gift
 djscord-alrdrops.com
+djscord-gg.com
+djscord-gifts.com
 djscord.com
 djscord.ru
 djscord.store
@@ -3201,6 +3203,7 @@ dlscord-apps.su
 dlscord-boost.com
 dlscord-boost.fun
 dlscord-claim.com
+dlscord-club.com
 dlscord-collaboration.com
 dlscord-developer.com
 dlscord-event.com
@@ -3939,6 +3942,7 @@ gggdrop.xyz
 gghacks.com
 gglootgood.xyz
 ggwin.net.ru
+giathub.com
 gibthub.com
 gidthub.com
 gif-discoord.com
@@ -4951,6 +4955,7 @@ nice-discord.com
 nicegg.ru
 nise-win.xyz
 nitlo-lg.xyz
+nitlro-gift.xyz
 nitrlooss-free.ru
 nitro-airdrop.org
 nitro-all.xyz
@@ -6269,6 +6274,7 @@ steam-game-csgo.ru
 steam-gametrade.xyz
 steam-gift-codes.com
 steam-gift-discord.ru
+steam-gift-dlscord.com
 steam-gift.ir
 steam-gift.online
 steam-historyoffer.xyz

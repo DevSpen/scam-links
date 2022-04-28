@@ -152,6 +152,7 @@ app-discords.com
 app-hypesquad.com
 app-hypesquad.online
 app-hypesquadevents.com
+app-jdl.ru
 app-moderator.com
 app-nitro.com
 application-discord.com
@@ -2901,6 +2902,7 @@ discrodnitro.org
 discrodnitro.ru
 discrodnitro.site
 discrods-app.xyz
+discrods-egift.com
 discrods-old.com
 discrods.gift
 discrods.site
@@ -3016,6 +3018,7 @@ disordsnltros.com
 disordsnltros.gifts
 displayoptoffers.com
 disqdrdapp.com
+disrcod-drop.com
 disrcod-nitro.com
 disrcod.com
 disrcod.gift
@@ -3360,6 +3363,7 @@ dlscord.work
 dlscord.world
 dlscordairdrop.com
 dlscordairdropi.com
+dlscordalrdrop.com
 dlscordapp.codes
 dlscordapp.com
 dlscordapp.fun

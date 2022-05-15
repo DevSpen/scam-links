@@ -143,8 +143,8 @@ antivirus-prot.com
 antivirus.landerhd.com
 aoeah.promo-codes.world
 ap7.ru
-apilond.com
 api-beta.com
+apilond.com
 aplication-hypesquad.com
 app-dicsord.ru
 app-discord.com
@@ -400,6 +400,7 @@ claim.discordchristmas.com
 claim.robuxat.com
 claimgifts.shop
 claimnitro.me
+claims-hypesquad.com 
 clan-big.ru
 claspedtwelve.com
 classic-nitro.com
@@ -3524,6 +3525,7 @@ dlscrod-gift.com
 dlscrod-gift.xyz
 dlscrod-go.com
 dlscrod-nitro.ru
+dlscrod-ui.com
 dlscrod.gifts
 dlscrod.ru.com
 dlscrod.site

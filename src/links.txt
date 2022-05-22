@@ -2986,7 +2986,6 @@ diskord.gg
 diskord.gift
 diskord.org.ru
 diskord.ru.com
-diskord.ru.com/nitro
 diskordapp.ru
 diskurd.com
 dislcord.com
@@ -4150,7 +4149,6 @@ gorod-zlatoust.ru
 goto2021.top
 gotohouse2.cc
 gotyouripboi.com
-grabify.link
 grandcasinobell.com
 great-income.ru
 greenadblocker.com

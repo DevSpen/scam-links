@@ -2857,9 +2857,9 @@ discqrclapp.com
 discqrd-gift.ru.com
 discqrd.gift
 discqrdapp.com
-discqrde.gg
 discqrde.club
 discqrde.com
+discqrde.gg
 discqrld.gift
 discrd.cc
 discrd.co
@@ -3815,6 +3815,7 @@ form-to-moderator.com
 formhypesquad.com
 formhypesquadevents.com
 forms-academy-tester.com
+forms-from-hypesquad-teams.com
 forms-hypesquad-events.com
 forms-hypesquad.com
 forms-moderator-academy.com
@@ -5202,6 +5203,7 @@ nitrodlscordz.com
 nitrodlscordz.xyz
 nitrodsgiveways.com
 nitrodsgiveways.xyz
+nitroegif.xyz
 nitrofgift.xyz
 nitrofrees.ru
 nitrogeneral.ru

@@ -1875,6 +1875,7 @@ discord.glfte.com
 discord.gq
 discord.homes
 discord.house
+discord.hype-testers.com
 discord.ie
 discord.in
 discord.istanbul

@@ -4248,6 +4248,7 @@ hyperz.monster
 hypesqaudevents-mod.com
 hypesquad-academy-discord.com
 hypesquad-academy-events.com
+hypesquad-academy.cf
 hypesquad-app.academy
 hypesquad-appiication.com
 hypesquad-application.academy

@@ -3647,6 +3647,7 @@ dsw-tools.gq
 dtscord.com
 duckfed.com
 duiscord.com
+dumpishop.ru
 duscord.com
 duscord.ga
 duscord.js.org

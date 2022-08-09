@@ -1907,7 +1907,6 @@ discord.soy
 discord.space
 discord.study
 discord.team
-discord.tools
 discord.tw
 discord.us.com
 discord.vc

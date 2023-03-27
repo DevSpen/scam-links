@@ -355,6 +355,7 @@ bro4.biz
 bronsky.kiev
 btcbolex.com
 btcclicks.com
+btchanger24.com
 btconline.io
 btcpool.io
 btnativenav.com
@@ -445,6 +446,7 @@ coinblog.site
 coinforcoin.site
 coinmoney.in.net
 cointradebtc.com
+coinwan.net
 coleryujgdq345678hfdh.xyz
 combestskins.org.ru
 comdicsord.net
@@ -512,14 +514,17 @@ cs-riptide.xyz
 cs-skins.link
 cs500go.com
 cschecker.ru
+csdrop-gg.com
 csgift.fun
 csgo-battle.ru
+csgo-bets.com
 csgo-cyber.link
 csgo-discord.xyz
 csgo-dym.ru
 csgo-fute.net.ru
 csgo-game-steam.ru
 csgo-gamesteam.ru
+csgo-gives.com
 csgo-lute.net.ru
 csgo-market.ru.com
 csgo-run.info
@@ -531,6 +536,7 @@ csgo-steamgame.ru
 csgo-steamplay.ru
 csgo-store-steam.ru
 csgo-storesteam.ru
+csgo-sub.com
 csgo-top.xyz
 csgo.ghservers.cl
 csgo4cases.fun
@@ -573,6 +579,7 @@ csrandom.monster
 css500gggo.ru
 csskins.space
 cswanmei4.ru
+cswinner.com
 cteamcamnynity67823535672.xyz
 cteamcommunity.xyz
 cupcsgo.ru
@@ -3746,6 +3753,8 @@ ezence.org
 ezrobux.gg
 f-nitro.xyz
 facedrop.one
+faceit-case.com
+faceit-gg.com
 faceit-premium.com
 facepnuch.com
 facepunch-award.com
@@ -4156,6 +4165,7 @@ gogofiles.net
 goharpc.com
 goo-gl.me
 good-csgo-steam.ru
+goodgame.today
 gopagefast.ru
 gorod-zlatoust.ru
 goto2021.top
@@ -9690,6 +9700,7 @@ tini.best
 tipslife.ru
 tipteamgg.xyz
 to6s.biz
+toecrypt.com
 token-bit.com
 toom-skins.xyz
 top-team.org.ru

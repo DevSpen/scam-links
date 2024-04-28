@@ -1,0 +1,139 @@
+ way to learn is simply by doing. That is how we - Michiel Prins and Jobert Abma - learned to hack.
+
+We were young. Like all hackers who came before us, and all of those who will come after, we were driven by an uncontrollable, burning curiosity to understand how things worked. We were mostly playing computer games, and by age 12 we decided to learn how to build software of our own. We learned how to program in Visual Basic and PHP from library books and practice.
+
+From our understanding of software development, we quickly discovered that these skills allowed us to find other developers’ mistakes. We shifted from building to breaking and hacking has been our passion ever since. To celebrate our high school graduation, we took over a TV station’s broadcast channel to air an ad congratulating our graduating class. While amusing at the time, we quickly learned there are consequences and these are not the kind of hackers the world needs. The TV station and school were not amused and we spent the summer washing windows as our punishment. In college, we turned our skills into a viable consulting business that, at its peak, had clients in the public and private sector across the entire world. Our hacking experience led us to HackerOne, a company we co-founded in 2012. We wanted to allow every company in the universe to work with hackers successfully and this continues to be HackerOne’s mission today.
+
+If you’re reading this, you also have the curiosity needed to be a hacker and bug hunter. We believe this book will be a tremendous guide along your journey. It’s filled with rich, real world examples of security vulnerability reports that resulted in real bug bounties, along with helpful analysis and review by Pete Yaworski, the author and a fellow hacker. He is your companion as you learn, and that’s invaluable.
+
+Another reason this book is so important is that it focuses on how to become an ethical hacker. Mastering the art of hacking can be an extremely powerful skill that we hope will be used for good. The most successful hackers know how to navigate the thin line between right and wrong while hacking. Many people can break things, and even try to make a quick buck doing so. But imagine you can make the Internet safer, work with amazing companies around the world, and even get paid along the way. Your talent has the potential of keeping billions of people and their data secure. That is what we hope you aspire to.
+
+We are grateful to no end to Pete for taking his time to document all of this so eloquently. We wish we had this resource when we were getting started. Pete’s book is a joy to read with the information needed to kickstart your hacking journey.
+
+Happy reading, and happy hacking!
+
+Remember to hack responsibly.
+
+Michiel Prins and Jobert Abma Co-Founders, HackerOne
+
+2. Introduction
+Thank you for purchasing this book, I hope you have as much fun reading it as I did researching and writing it.
+
+Web Hacking 101 is my first book, meant to help you get started hacking. I began writing this as a self-published explanation of 30 vulnerabilities, a by-product of my own learning. It quickly turned into so much more.
+
+My hope for the book, at the very least, is to open your eyes to the vast world of hacking. At best, I hope this will be your first step towards making the web a safer place while earning some money doing it.
+
+How It All Started
+In late 2015, I stumbled across the book, We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous and the Global Cyber Insurgency by Parmy Olson and ended up reading it in a week. Having finished it though, I was left wondering how these hackers got started.
+
+I was thirsty for more, but I didn’t just want to know WHAT hackers did, I wanted to know HOW hackers did it. So I kept reading. But each time I finsihed a new book, I was still left with the same questions:
+
+How do other Hackers learn about the vulnerabilities they find?
+Where are people finding vulnerabilities?
+How do Hackers start the process of hacking a target site?
+Is Hacking just about using automated tools?
+How can I get started finding vulnerabilities?
+But looking for more answers, kept opening more and more doors.
+
+Around this same time, I was taking Coursera Android development courses and keeping an eye out for other interesting courses. The Coursera Cybersecurity specialization caught my eye, particularly Course 2, Software Security. Luckily for me, it was just starting (as of February 2016, it is listed as Coming Soon) and I enrolled.
+
+A few lectures in, I finally understood what a buffer overflow was and how it was exploited. I fully grasped how SQL injections were achieved whereas before, I only knew the danger. In short, I was hooked. Up until this point, I always approached web security from the developer’s perspective, appreciating the need to sanitize values and avoid using user input directly. Now I was beginning to understand what it all looked like from a hacker’s perspective.
+
+I kept looking for more information on how to hack and came across Bugcrowd’s forums. Unfortunately they weren’t overly active at the time but there someone mentioned HackerOne’s hacktivity and linked to a report. Following the link, I was amazed. I was reading a description of a vulnerability, written to a company, who then disclosed it to the world. Perhaps more importantly, the company actually paid the hacker to find and report this!
+
+That was a turning point, I became obsessed. Especially when a homegrown Canadian company, Shopify, seemed to be leading the pack in disclosures at the time. Checking out Shopify’s profile, their disclosure list was littered with open reports. I couldn’t read enough of them. The vulnerabilities included Cross-Site Scripting, Authentication and Cross-Site Request Forgery, just to name a few.
+
+Admittedly, at this stage, I was struggling to understand what the reports were detailing. Some of the vulnerabilities and methods of exploitation were hard to understand.
+
+Searching Google to try and understand one particular report, I ended on a GitHub issue thread for an old Ruby on Rails default weak parameter vulnerability (this is detailed in the Application Logic chapter) reported by Egor Homakov. Following up on Egor led me to his blog, which includes disclosures for some seriously complex vulnerabilities.
+
+Reading about his experiences, I realized, the world of hacking might benefit from plain language explanations of real world vulnerabilities. And it just so happened, that I learn better when teaching others.
+
+And so, Web Hacking 101 was born.
+
+Just 30 Examples and My First Sale
+I decided to start out with a simple goal, find and explain 30 web vulnerabilities in easy to understand, plain language.
+
+I figured, at worst, researching and writing about vulnerabilities would help me learn about hacking. At best, I’d sell a million copies, become a self-publishing guru and retire early. The latter has yet to happen and at times, the former seems endless.
+
+Around the 15 explained vulnerabilities mark, I decided to publish my draft so it could be purchased - the platform I chose, LeanPub (which most have probably purchased through), allows you to publish iteratively, providing customers with access to all updates. I sent out a tweet thanking HackerOne and Shopify for their disclosures and to tell the world about my book. I didn’t expect much.
+
+But within hours, I made my first sale.
+
+Elated at the idea of someone actually paying for my book (something I created and was pouring a tonne of effort into!), I logged on to LeanPub to see what I could find out about the mystery buyer. Turns out nothing. But then my phone vibrated, I received a tweet from Michiel Prins saying he liked the book and asked to be kept in the loop.
+
+Who the hell is Michiel Prins? I checked his Twitter profile and turns out, he’s one of the Co-Founders of HackerOne. Shit. Part of me thought HackerOne wouldn’t be impressed with my reliance on their site for content. I tried to stay positive, Michiel seemed supportive and did ask to be kept in the loop, so probably harmless.
+
+Not long after my first sale, I received a second sale and figured I was on to something. Coincidentally, around the same time, I got a notification from Quora about a question I’d probably be interested in, How do I become a successful Bug bounty hunter?
+
+Given my experience starting out, knowing what it was like to be in the same shoes and with the selfish goal of wanting to promote my book, I figured I’d write an answer. About half way through, it dawned on me that the only other answer was written by Jobert Abma, one of the other Co-Founders of HackerOne. A pretty authoritative voice on hacking. Shit.
+
+I contemplated abandoning my answer but then elected to rewrite it to build on his input since I couldn’t compete with his advice. I hit submit and thought nothing of it. But then I received an interesting email:
+
+Hi Peter, I saw your Quora answer and then saw that you are writing a book about White Hat hacking. Would love to know more.
+
+Kind regards,
+
+Marten CEO, HackerOne
+
+Triple Shit. A lot of things ran through my mind at this point, none of which were positive and pretty much all were irrational. In short, I figured the only reason Marten would email me was to drop the hammer on my book. Thankfully, that couldn’t have been further from the truth.
+
+I replied to him explaining who I was and what I was doing - that I was trying to learn how to hack and help others learn along with me. Turns out, he was a big fan of the idea. He explained that HackerOne is interested in growing the community and supporting hackers as they learn as it’s mutually beneficial to everyone involved. In short, he offered to help. And man, has he ever. This book probably wouldn’t be where it is today or include half the content without his and HackerOne’s constant support and motivation.
+
+Since that initial email, I kept writing and Marten kept checking in. Michiel and Jobert reviewed drafts, provided suggestions and even contributed some sections. Marten even went above and beyond to cover the costs of a professionally designed cover (goodbye plain yellow cover with a white witches’ hat, all of which looked like it was designed by a four year old). In May 2016, Adam Bacchus joined HackerOne and on his 5th day working there, he read the book, provided edits and was explaining what it was like to be on the receiving end of vulnerability reports - something I’ve now included in the report writing chapter.
+
+I mention all this because throughout this journey, HackerOne has never asked for anything in return. They’ve just wanted to support the community and saw this book was a good way of doing it. As someone new to the hacking community, that resonated with me and I hope it does with you too. I personally prefer to be part of a supportive and inclusive community.
+
+So, since then, this book has expanded dramatically, well beyond what I initially envisioned. And with that, the target audience has also changed.
+
+Who This Book Is Written For
+This book is written with new hackers in mind. It doesn’t matter if you’re a web developer, web designer, stay at home mom, a 10 year old or a 75 year old. I want this book to be an authoritative reference for understanding the different types of vulnerabilities, how to find them, how to report them, how to get paid and even, how to write defensive code.
+
+That said, I didn’t write this book to preach to the masses. This is really a book about learning together. As such, I share successes AND some of my notable (and embarrassing) failures.
+
+The book also isn’t meant to be read cover to cover, if there is a particular section you’re interested in, go read it first. In some cases, I do reference sections previously discussed, but doing so, I try to connect the sections so you can flip back and forth. I want this book to be something you keep open while you hack.
+
+On that note, each vulnerability type chapter is structured the same way:
+
+Begin with a description of the vulnerability type;
+Review examples of the vulnerability; and,
+Conclude with a summary.
+Similarly, each example within those chapters is structured the same way and includes:
+
+My estimation of the difficulty finding the vulnerability
+The url associated with where the vulnerability was found
+A link to the report or write up
+The date the vulnerability was reported
+The amount paid for the report
+An easy to understand description of the vulnerability
+Take aways that you can apply to your own efforts
+Lastly, while it’s not a prerequisite for hacking, it is probably a good idea to have some familiarity with HTML, CSS, Javascript and maybe some programming. That isn’t to say you need to be able to put together web pages from scratch, off the top of your head but understanding the basic structure of a web page, how CSS defines a look and feel and what can be accomplished with Javascript will help you uncover vulnerabilities and understand the severity of doing so. Programming knowledge is helpful when you’re looking for application logic vulnerabilities. If you can put yourself in the programmer’s shoes to guess how they may have implemented something or read their code if it’s available, you’ll be ahead in the game.
+
+To do so, I recommend checking out Udacity’s free online courses Intro to HTML and CSS and Javacript Basics, links to which I’ve included in the Resources chapter. If you’re not familiar with Udacity, it’s mission is to bring accessible, affordable, engaging and highly effective higher education to the world. They’ve partnered with companies like Google, AT&T, Facebook, Salesforce, etc. to create programs and offer courses online.
+
+Chapter Overview
+Chapter 2 is an introductory background to how the internet works, including HTTP requests and responses and HTTP methods.
+
+Chapter 3 covers Open Redirects, an interesting vulnerability which involves exploiting a site to direct users to visit another site which allows an attacker to exploit a user’s trust in the vulnerable site.
+
+Chapter 4 covers HTTP Parameter Pollution and in it, you’‘ll learn how to find systems that may be vulnerable to passing along unsafe input to third party sites.
+
+Chapter 5 covers Cross-Site Request Forgery vulnerabilities, walking through examples that show how users can be tricked into submitting information to a website they are logged into unknowingly.
+
+Chapter 6 covers HTML Injections and in it, you’ll learn how being able to inject HTML into a web page can be used maliciously. One of the more interesting takeaways is how you can use encoded values to trick sites into accepting and rendering the HTML you submit, bypassing filters.
+
+Chapter 7 covers Carriage Return Line Feed Injections and in it, looking at examples of submitting carriage return, line breaks to sites and the impact it has on rendered content.
+
+Chapter 8 covers Cross-Site Scripting, a massive topic with a huge variety of ways to achieve exploits. Cross-Site Scripting represents huge opportunities and an entire book could and probably should, be written solely on it. There are a tonne of examples I could have included here so I try to focus on the most interesting and helpful for learning.
+
+Chapter 9 covers Server Side Template Injection, as well as client side injections. These types of vulnerabilities take advantage of developers injecting user input directly into templates when submitted using the template syntax. The impact of these vulnerabilities depends on where they occur but can often lead to remote code executions.
+
+Chapter 10 covers structured query language (SQL) injections, which involve manipulating database queries to extract, update or delete information from a site.
+
+Chapter 11 covers Server Side Request Forgery which allows an attacker to user a remote server to make subsequent HTTP requests on the attacker’s behalf.
+
+Chapter 12 covers XML External Entity vulnerabilities resulting from a sites parsing of extensible markup language (XML). These types of vulnerabilities can include things like reading private files, remote code execution, etc.
+
+Chapter 13 covers Remote Code Execution, or the ability for an attacker to execute arbitrary code on a victim server. This type of vulnerability is among the most dangerous since an attacker can control what code is executed and is usually rewarded as such.
+
+Chapter 14 covers memory related vulnerabilities, a type of vulnerability which can be tough to find and are typically related to low level programming languages. However, discovering these types of bugs can lead to some pretty serious vulnerabilities.

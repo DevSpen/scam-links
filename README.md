@@ -10,6 +10,3 @@
 
 - Want to support this project? Give it a ⭐!
 - Want to contribute? Read [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-### API
-Check out our awesome free-to-use API [here](https://spen.tk/api/ 'API Home Page').
